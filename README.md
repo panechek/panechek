@@ -1,7 +1,6 @@
 ### Hi there 👋
-
-
-####I'm a Fullstack Developer
+***
+#### I'm a Fullstack Developer
 
 <!--
 **panechek/panechek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
